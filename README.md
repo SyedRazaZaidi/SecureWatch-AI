@@ -18,7 +18,8 @@ An enterprise-grade, real-time computer vision security pipeline that transforms
 <br />
 
 <p align="center">
-  <img src="demo.png" alt="VisionGuard-AI Surveillance Dashboard Demo" width="900" />
+ <img width="1138" height="674" alt="image" src="https://github.com/user-attachments/assets/7df93f6e-e881-4db8-82f3-ac3ff2f3e3dd" />
+
 </p>
 
 ---
