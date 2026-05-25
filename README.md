@@ -198,6 +198,3 @@ If you would like to contribute improvements or new heuristic models to the repo
 
 ---
 
-
-
-*   **Inspiration**: Highly optimized and enhanced branch derived from the original repository [SyedRazaZaidi/VisionGuard-AI-Smart-Surveillance-Behavioral-Intel
